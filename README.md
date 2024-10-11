@@ -1,0 +1,1 @@
+ejecutar el proyecto y navegar a la ruta http://localhost:8080/swagger-ui/index.html
